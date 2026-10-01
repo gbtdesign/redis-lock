@@ -1,0 +1,24 @@
+schema_version: 1
+module_path: ""
+title: Redis 分布式锁库 rlock
+scope:
+    - .
+    - .CHANGELOG.md
+    - .codecov.yml
+    - .deepsource.toml
+    - .gitignore
+    - .golangci.yml
+    - .license.go.header
+    - .licenserc.json
+    - LICENSE
+    - Makefile
+    - README.md
+    - go.mod
+    - go.sum
+    - lock.go
+    - lock_e2e_test.go
+    - lock_test.go
+    - retry.go
+source_files: []
+depends_on: []
+related_to: []

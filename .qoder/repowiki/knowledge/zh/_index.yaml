@@ -1,0 +1,32 @@
+# 知识卡导出索引文件
+schema_version: 1
+locale: zh-CN
+branch: master
+nodes_managed: true
+exported_at: "2026-10-01T14:19:17Z"
+modules:
+    "":
+        dir_name: Redis 分布式锁库 rlock
+        title: Redis 分布式锁库 rlock
+        scope:
+            - .
+            - .CHANGELOG.md
+            - .codecov.yml
+            - .deepsource.toml
+            - .gitignore
+            - .golangci.yml
+            - .license.go.header
+            - .licenserc.json
+            - LICENSE
+            - Makefile
+            - README.md
+            - go.mod
+            - go.sum
+            - lock.go
+            - lock_e2e_test.go
+            - lock_test.go
+            - retry.go
+        source_files: []
+        children: []
+        depends_on: []
+        related_to: []
